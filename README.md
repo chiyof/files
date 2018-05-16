@@ -2,7 +2,7 @@
 Personal archive for private builds.
 I provide no warranty at all to any person.
 
-## Neovim personal build
+## Neovim private build
 
 ### compiled with VS2017 x64 Release w/ +iconv +jemalloc as of May 07 2018.
 
